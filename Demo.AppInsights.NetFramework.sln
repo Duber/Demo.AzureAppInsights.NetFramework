@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.AppInsights.NetFramework", "Demo.AppInsights.NetFramework\Demo.AppInsights.NetFramework.csproj", "{C0DE7B2E-2871-46D8-93FF-8AA80E7E7972}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.AppInsights.netFramework.Logging", "Demo.AppInsights.netFramework.Logging\Demo.AppInsights.netFramework.Logging.csproj", "{86D2DF47-7FBF-48BC-B6B3-5536428A5AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C0DE7B2E-2871-46D8-93FF-8AA80E7E7972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DE7B2E-2871-46D8-93FF-8AA80E7E7972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DE7B2E-2871-46D8-93FF-8AA80E7E7972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D2DF47-7FBF-48BC-B6B3-5536428A5AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D2DF47-7FBF-48BC-B6B3-5536428A5AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D2DF47-7FBF-48BC-B6B3-5536428A5AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D2DF47-7FBF-48BC-B6B3-5536428A5AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
